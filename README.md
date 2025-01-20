@@ -1,6 +1,6 @@
 # Synchronizing Your Local Git Repository with Remote Changes
 
-This guide explains how to update your local Git repository on your home laptop with the latest changes from the remote repository. Follow these steps to ensure your repository is synchronized without needing to delete and re-clone it.
+This guide explains how to update your local Git repository locally with the latest changes from the remote repository. Follow these steps to ensure your repository is synchronized without needing to delete and re-clone it.
 
 ---
 
